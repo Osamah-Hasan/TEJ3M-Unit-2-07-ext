@@ -1,3 +1,7 @@
+#Created by: Osamah
+#Created on: APR 2025
+#Servo Control with Ultrasonic Sensor
+
 import board
 import pwmio
 import time
